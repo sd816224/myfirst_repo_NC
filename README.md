@@ -60,7 +60,7 @@ asdfasdf
   - asdfasdf
   - asdfasdfd
 
-[TFDSDC](#05/05/2023)
+[TFDSDC](#05-05-2023)
   
 - [Awesome Systematic Trading](#awesome-systematic-trading)
   - [Star History](#star-history)
