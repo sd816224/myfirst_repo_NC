@@ -60,7 +60,7 @@ asdfasdf
   - asdfasdf
   - asdfasdfd
 
-[TFDSDC](#a-b-c)
+[TFDSDC](#a-b-C)
   
 - [Awesome Systematic Trading](#awesome-systematic-trading)
   - [Star History](#star-history)
