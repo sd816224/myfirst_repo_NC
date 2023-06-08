@@ -1,5 +1,5 @@
 # myfirst_repo_NC
-## A B C
+## 05/05/2023
 # Awesome Systematic Trading
 
 asdfasdf
@@ -60,7 +60,7 @@ asdfasdf
   - asdfasdf
   - asdfasdfd
 
-[TFDSDC](#A-B-C)
+[TFDSDC](#05/05/2023)
   
 - [Awesome Systematic Trading](#awesome-systematic-trading)
   - [Star History](#star-history)
